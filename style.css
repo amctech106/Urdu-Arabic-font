@@ -2,16 +2,15 @@
 @import url("https://fonts.googleapis.com/css2?family=Amiri+Quran&display=swap");
 
 body {
-  background-color: #ffef9f;
- font-family: "Noto Nastaliq Urdu", serif;
+  background-color: #FAF9F6;
+  font-family: "Noto Nastaliq Urdu", serif;
 }
 
-.main{
-    padding: 15px;
-    margin: 30px;
-    border: 3px solid gold;
-    border-radius: 15px;
-
+.main {
+  padding: 15px;
+  margin: 30px;
+  border: 3px solid gold;
+  border-radius: 15px;
 }
 
 .heading {
@@ -21,42 +20,40 @@ body {
   padding-bottom: 20px;
 }
 
-.quranh{
-    text-align: center;
-    color:#000000;
-    
-    
+.quranh {
+  text-align: center;
+  color: #000000;
 }
 
-#quran{
-    font-family: 'Amiri Quran', serif;
-    font-weight: 600;
-    background-color: #059862;
-    text-align: center;
-     padding-bottom: 20px;
-     color: white;
-     padding: 15px;
+#quran {
+  font-family: "Amiri Quran", serif;
+  font-weight: 600;
+  background-color: #059862;
+  text-align: center;
+  padding-bottom: 20px;
+  color: white;
+  padding: 15px;
 }
 
-.translationh{
-    text-align: center;
-    color:#000000;
+.translationh {
+  text-align: center;
+  color: #000000;
 }
 
-.translation{
-    font-weight: 400;
-    background-color: #000000;
-    text-align: center;
-     padding: 15px;
-     color: white;
+.translation {
+  font-weight: 400;
+  background-color: #000000;
+  text-align: center;
+  padding: 15px;
+  color: white;
 }
 
-.tafseerh{
-    text-align: center;
-    color:#000000;
+.tafseerh {
+  text-align: center;
+  color: #000000;
 }
 
-.tafseer{
-    text-align:justify;
-    direction:rtl ;
+.tafseer {
+  text-align: justify;
+  direction: rtl;
 }
